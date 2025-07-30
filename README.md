@@ -10,7 +10,7 @@ The notebook `CCSN8010_lab3_VanillaCNN.ipynb` builds and compares two predictive
 
 
 ### HTML Export (for GitHub Pages)
-You can view the published notebook [here](https://paulamrz-c.github.io/CSCN8010-PR-Lab3/CSN8010_lab3_VanillaCNN.ipynb.html)
+You can view the published notebook [here](https://paulamrz-c.github.io/CSCN8010-PR-Lab3/CSN8010_lab3_VanillaCNN.html)
 
 ### 📁 Dataset
 
